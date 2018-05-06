@@ -1,2 +1,0 @@
-# myConfigTest
-测试
